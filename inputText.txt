@@ -1,0 +1,12 @@
+02/15/1999
+05/25/2018
+12/31/2058
+I am amy This is a demo
+string to illustrate copying text 
+from one textarea to another 
+textarea using an external 
+event and testing on word 
+counting and letter counting 
+how about a very 
+longlonglonglonglong word
+
